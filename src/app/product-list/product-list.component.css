@@ -1,0 +1,19 @@
+.product-list {
+  width: 100%;
+  background-color: #fff;
+}
+
+.product-item {
+  padding: 20px;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.product-name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.product-desc {
+  color: #aaaaaa;
+  font-size: 14px;
+}
